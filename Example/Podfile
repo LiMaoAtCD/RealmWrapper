@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RealmWrapper_Example' do
+  pod 'RealmWrapper', :path => '../'
+
+  target 'RealmWrapper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
