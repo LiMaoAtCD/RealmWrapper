@@ -1,0 +1,16 @@
+PODS:
+  - RealmWrapper (0.1.0)
+
+DEPENDENCIES:
+  - RealmWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  RealmWrapper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RealmWrapper: 5b42a0d194c05bab08a4e7755feee3714b1f0753
+
+PODFILE CHECKSUM: 122a0f01557adbafd7a9f86afa173549d36aed27
+
+COCOAPODS: 1.2.0.beta.1

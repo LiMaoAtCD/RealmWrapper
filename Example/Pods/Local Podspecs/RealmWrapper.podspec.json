@@ -1,0 +1,26 @@
+{
+  "name": "RealmWrapper",
+  "version": "0.1.0",
+  "summary": "A wrapper of RealmWrapper.",
+  "description": "A wrapper of RealmWrapper. for simplifing realm download time.",
+  "homepage": "https://github.com/liamscofield/RealmWrapper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "limitscofield@gmail.com": "morning@thecover.co"
+  },
+  "source": {
+    "git": "https://github.com/liamscofield/RealmWrapper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RealmWrapper/Classes/**/*",
+  "vendored_frameworks": [
+    "RealmWrapper/Classes/Realm/Realm.framework",
+    "RealmWrapper/Classes/Realm/RealmSwift.framework"
+  ]
+}
